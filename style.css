@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    justify-content: center;
+    max-width: 900px;
+    align-items: center;
+    background:#ccc;
+    flex-wrap: wrap;
+}
+
+img{
+    max-width: 120px;
+    margin: 10px;
+}
